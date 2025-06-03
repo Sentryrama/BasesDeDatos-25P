@@ -347,15 +347,6 @@ VALUES
         "Calzada Tuvalu 883 Edif. 310 , Depto. 334 San María José los bajos, Q. ROO 83866-2904"
     );
 
-(
-    "Francisco",
-    "Espinosa",
-    "1980-04-15",
-    "M",
-    "5512345650",
-    "Calzada Tuvalu 883 Edif. 310 , Depto. 334 San María José los bajos, Q. ROO 83866-2904"
-);
-
 -- Todos los pacientes
 SELECT
     *
